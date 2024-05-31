@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvsahithi16&label=Profile%20views&color=0e75b6&style=flat" alt="mvsahithi16" /> </p>
 
-- 📫 How to reach me **marapadagavenkata.s@northeaster.edu**
+- 📫 How to reach me **marapadagavenkata.s@northeastern.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
